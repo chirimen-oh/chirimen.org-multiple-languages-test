@@ -3,8 +3,8 @@
 	<channel>
 		<title>CHIRIMEN Open Hardware</title>
 		<description>CHIRIMEN Open Hardware is a community-driven, is an open hardware project.</description>
-		<link>https://chirimen-org.github.io/ja</link>
-		<atom:link href="https://chirimen-org.github.io/ja/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://chirimen-org.github.io/chirimen.org/ja</link>
+		<atom:link href="https://chirimen-org.github.io/chirimen.org/ja/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
