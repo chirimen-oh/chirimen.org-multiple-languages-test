@@ -15,7 +15,7 @@ url: "https://chirimen-org.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl:
+baseurl: '/chirimen.org'
 
 # Google tracking id to track your visitors
 
